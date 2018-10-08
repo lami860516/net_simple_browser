@@ -1,2 +1,4 @@
 # net_simple_browser
-JAVA，GUI，download
+使用JAVA寫，撰寫一個可下載網站供離線瀏覽的程式。  
+提供使用者輸入網址與選擇是否遞迴下載、下載深度等功能來下載網頁內容。  
+
